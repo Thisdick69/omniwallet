@@ -8,7 +8,7 @@
 	"dependencies": {
 		"grunt": "0.4.x",
 		"grunt-git": "0.2.x",
-		"grunt-shell": "0.6.x",
+		"grunt-shell": "0.7.0",
 		"grunt-contrib-clean": "0.5.x",
 		"bower": "1.8.x"
 	},
