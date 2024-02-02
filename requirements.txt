@@ -2,7 +2,7 @@ ecdsa==0.13.3
 email_validator==1.0.5
 pycoin==0.25
 simplekv==0.8.4
-pycryptodome==3.7.0
+pycryptodome==3.19.1
 requests==2.20.0
 pybitcointools==1.1
 bitcoin-python==0.3
